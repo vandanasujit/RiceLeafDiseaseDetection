@@ -1,5 +1,11 @@
 # Image Classification with Data Augmentation
-This project focuses on building an image classification model using deep learning techniques and data augmentation to enhance model performance and generalization. The dataset consists of 119 images related to rice leaf diseases, and the project explores the impact of various data augmentation techniques on model accuracy and overfitting.
+This project focuses on building an image classification model using deep learning techniques and data augmentation to enhance model performance and generalization. The dataset consists of 119 images related to rice leaf diseases. . The images are grouped into 3 classes based on the type of disease. 
+Classes
+●	Leaf smut-39 images
+●	Brown spot-40 images
+●	Bacterial leaf blight-40 images
+
+ and the project explores the impact of various data augmentation techniques on model accuracy and overfitting.
 
 ### Project Overview
 Given the limited size of the dataset, data augmentation is employed to artificially increase the training data size, helping the model generalize better to unseen images and avoid overfitting. The goal is to classify rice leaf diseases while maintaining high accuracy on both the training and testing datasets.
