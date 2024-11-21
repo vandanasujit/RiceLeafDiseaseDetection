@@ -7,6 +7,11 @@ Classes
 
  and the project explores the impact of various data augmentation techniques on model accuracy and overfitting.
 
+ Domain: 
+[Link Text](https://d3ilbtxij3aepc.cloudfront.net/projects/CDS-Capstone-Projects/PRCP-1001-RiceLeaf.zip)
+
+
+
 ### Project Overview
 Given the limited size of the dataset, data augmentation is employed to artificially increase the training data size, helping the model generalize better to unseen images and avoid overfitting. The goal is to classify rice leaf diseases while maintaining high accuracy on both the training and testing datasets.
 
